@@ -1,0 +1,30 @@
+{
+    "products":  [
+        {
+            "id" : 1,
+            "name" : "Caneta",
+            "price" : 13.67
+        },
+        {
+            "id" : 2,
+            "name" : "Caneta Tipo 2",
+            "price" : 4.63
+        },
+        {
+            "id" : 3,
+            "name" : "Caneta Bic",
+            "price" : 3.87
+        },
+        {
+            "id" : 4,
+            "name" : "Lapis",
+            "price" : 8.30
+        },
+        {
+            "id" : 1,
+            "name" : "Caneta Fina",
+            "price" : 9.11
+        }
+
+    ]
+}
